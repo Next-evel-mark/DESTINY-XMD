@@ -86,7 +86,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363288304618280@newsletter",
-          newsletterName: "PK-XMD Bot Updates",
+          newsletterName: "𝐍𝐄𝐗𝐓_𝐋𝐄𝐕𝐄𝐋_𝐌𝐀𝐑𝐊",
           serverMessageId: Math.floor(Math.random() * 1000000).toString(),
         }
       }
