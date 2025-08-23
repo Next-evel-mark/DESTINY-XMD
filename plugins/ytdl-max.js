@@ -37,6 +37,6 @@ cmd({
 
     } catch (error) {
         console.error(error);
-        reply("An error occurred. Please try again.");
+        reply("❌destiny xmd encountered an error due to api limit.");
     }
 });
