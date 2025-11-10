@@ -1,7 +1,7 @@
 {
-  "name": "gifted-md",
+  "name": "Destiny-xmd",
   "version": "5.0.0",
-  "description": "Gifted-Md, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
+  "description": "destiny-xMd, a Multi Device Whatsapp Bot to Enhance Whatsapp Communication Experience",
   "main": "./index.js",
   "type": "commonjs",
   "engines": {
@@ -9,20 +9,20 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --name giftedmd",
-    "stop": "pm2 stop giftedmd",
-    "restart": "pm2 restart giftedmd"
+    "start": "pm2 start index.js --name destinyxmd",
+    "stop": "pm2 stop destinyxmd",
+    "restart": "pm2 restart destinymd"
   },
   "keywords": [
-    "gifted-md",
+    "destiny-xmd",
     "whatsapp-bot",
-    "giftedtech"
+    "marktech"
   ],
-  "author": "GiftedTech",
+  "author": "MarkTech",
   "license": "MIT",
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
-    "gifted-baileys": "^2.0.0",
+    "destiny-baileys": "^2.0.0",
     "axios": "^1.2.5",
     "acrcloud": "*",
     "adm-zip": "*",
@@ -58,10 +58,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricegift/gifted-md.git"
+    "url": "git + https://github.com/Next-evel-mark/DESTINY-XMD"
   },
   "bugs": {
-    "url": "https://github.com/mauricegift/gifted-md/issues"
+    "url": "https://github.com/Next-evel-mark/DESTINY-XMD/issues"
   },
-  "homepage": "https://github.com/mauricegift/gifted-md#readme"
+  "homepage": "https://github.com/Next-evel-mark/DESTINY-XMD#readme"
 }
