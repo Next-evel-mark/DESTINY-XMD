@@ -1,7 +1,9 @@
+/**
+ * ⚙️ Fill in your WhatsApp session ID here (from your session generator)
+ * Example: "ABCD1234==:XYZ123"
+ */
 module.exports = {
-  SESSION_ID: "PUT_YOUR_SESSION_ID_HERE", // ← Users paste their session ID here
-  BOT_NAME: "Mark-MD",
+  SESSION_ID: "PASTE_YOUR_SESSION_ID_HERE",
   PREFIX: "!",
-  OWNER_NUMBER: "2547XXXXXXXX",
-  SUDO_NUMBERS: "2547XXXXXXXX,2541XXXXXXXX"
+  OWNER_NUMBER: "2547XXXXXXXX"
 };
